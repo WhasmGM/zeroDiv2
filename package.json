@@ -1,0 +1,24 @@
+{
+  "name": "DivZero",
+  "version": "0.0.1",
+  "description": "Divulgação - Zero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Wantz_",
+  "license": "ISC",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "fs": "^0.0.2",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2",
+    "os": "^0.1.1",
+    "discord.js": "^11.6.1",
+    "snekfetch": "^4.0.4",
+    "express": "^4.17.1",
+    "html": "^1.0.0",
+    "enmap": "^5.2.4"
+  }
+}
